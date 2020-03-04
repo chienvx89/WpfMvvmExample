@@ -7,4 +7,4 @@
 *	Need apply command pattern and generic 
 *	Need apply logging (log4net, global handle err, backend structure, validation, navigation)
 ## Objective
-*	Generate structure template for wpf app
+*	Generate structure template for wpf app.	
