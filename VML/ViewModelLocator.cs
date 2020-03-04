@@ -8,6 +8,9 @@ using System.Windows;
 
 namespace WpfMvvmExample.VML
 {
+    /// <summary>
+    /// Mapping viewmodel with view on xaml (meta pattern       )
+    /// </summary>
     public static class ViewModelLocator
     {
         public static bool GetAutoHookedUpViewModel(DependencyObject obj)
